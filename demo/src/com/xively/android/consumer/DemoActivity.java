@@ -34,8 +34,8 @@ public class DemoActivity extends Activity
 	// ------------- SET THE FOLLOWING ACCORDINGLY ----------------------
 
         // DEFINE YOUR CREDENTIALS BELOW (TODO: make these configurable)
-        //private final String myApiKey = "REPLACE_WITH_YOUR_XIVELY_API_KEY";
-        //private final int myFeedId = 540; 
+        private final String myApiKey = "1XH0YDZAROa50ojSJUOgSS5DGQPWK5IfKU17aKcZNz9XLYhA";
+        private final int myFeedId = 701860613; 
 
 	// a datastream id which belongs to myFeedId
 	private final String myDatastreamId = "stream_id1";
